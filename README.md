@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code for the git project
+> My innocent little change
 
 ## I'm in the feature branch
 
@@ -9,4 +9,3 @@
 > Made changes for git pull demo
 
 > Made changes for git pull/fetch demo
-
